@@ -1,0 +1,56 @@
+.first {
+    border: 2px solid black;
+    height: 33vh;
+    width: 100%;
+}
+
+.purple {
+    margin: 9vh 9vh 1vh 1vh;
+    background-color: blueviolet;
+    width: 5vw;
+    height: 70%;
+    display: inline-block;
+}
+
+.green {
+    background-color: green;
+    height: 95%;
+    width: 50vh;
+    margin: 1vh 3vh 1vh 2vh;
+    display: inline-block;
+}
+
+.circle {
+    border-radius: 278px;
+    height: 95%;
+    width: 34vh;
+    background-color: lightskyblue;
+    display: inline-block;
+    margin: 1vh;
+}
+
+.second {
+    border: 2px dashed black;
+    height: 33vh;
+    margin: 2vh 0;
+    padding: 50px;
+}
+
+.yellow {
+    background-color: burlywood;
+    width: 100%;
+    height: 100%;
+    box-shadow: 5px 10px #888888;
+}
+
+.words {
+    border: 1px solid gray;
+    height: 30vh;
+    width: 50%;
+    margin: 5px auto;
+    box-shadow: 3px 4px gray;
+    padding: 120px;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
